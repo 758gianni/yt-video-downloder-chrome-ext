@@ -2,6 +2,7 @@
 
 A chrome extension that adds a simple download button to YouTube.
 
+Please read [disclaimer](https://github.com/758gianni/yt-video-downloder-chrome-ext#disclaimer) before proceeding.
 
 ## Features
 
