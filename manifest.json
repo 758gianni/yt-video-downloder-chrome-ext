@@ -1,6 +1,6 @@
 {
     "name": "YT Vid Downloader",
-    "description": "Youtube Video Downloader",
+    "description": "A chrome extension that adds a simple download button to YouTube.",
     "author": "Gianni Belizaire",
     "version": "1.0",
     "manifest_version": 3,
