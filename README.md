@@ -25,3 +25,15 @@ A chrome extension that adds a simple download button to YouTube.
 
 If you have any feedback, please reach out to me at develop@giannibelizaire.com
 
+
+## Disclaimer
+
+YT Vid Downloader simply redirects users to an [external website](https://y2mate.is) in order to download the video.
+
+y2mate.is is not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by myself.
+
+I do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by this third-party website linked through the use of this browser extension.
+
+By using their services, you are accepting their [terms of service](https://y2mate.is/tos.html).
+
+USE AT YOUR OWN RISK!
