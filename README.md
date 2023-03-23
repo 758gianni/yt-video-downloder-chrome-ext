@@ -17,14 +17,6 @@ Please read [disclaimer](https://github.com/758gianni/yt-video-downloder-chrome-
 - Go to [chrome://extensions/](chrome://extensions/)
 - Click "Load unpacked" button at top left corner
 - Go to directory where you saved this repository and upload it
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/hVgYChB/Untitled-design.gif)
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at develop@giannibelizaire.com
 
 
 ## Disclaimer
